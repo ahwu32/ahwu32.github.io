@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "This is a test post"
-date:   2016-06-13 07:03:42 +0000
+title:  "Random title"
+date:   2016-06-12 07:03:42 +0000
 categories: random
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
